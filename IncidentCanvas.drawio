@@ -1,0 +1,424 @@
+<mxfile host="Electron" modified="2024-02-25T21:51:15.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="2rvvk0tJiH72N7x7sxmw" version="23.1.5" type="device">
+  <diagram id="07fea595-8f29-1299-0266-81d95cde20df" name="Page-1">
+    <mxGraphModel dx="5323" dy="1423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="698" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#e8edf0;fontSize=60;fontColor=#2F5B7C;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-2290" y="32" width="2250" height="1598" as="geometry" />
+        </mxCell>
+        <mxCell id="699" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;9. Audience / Degree&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Which &lt;/b&gt;is the&amp;nbsp;audience(s) targeted and reached by the attack behind this incident?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;What is the distribution of the content?&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;The degree dimension attempts to gauge and describe the way the Incident has travelled through the information environment, possibly crossing different channels (shared via Social Media, story picked-up by other news media, etc), targeting different linguistic, ethnic, social or age groups. This view on disinformation operations can reveal threat actor preferences with regards to targeted platforms and identify different roles of channels in a network as source, amplifier or link to other networks.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="221" width="360" height="619" as="geometry" />
+        </mxCell>
+        <mxCell id="700" value="&lt;font&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;1. Description&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+          <mxGeometry x="-2210" y="221" width="400" height="749" as="geometry" />
+        </mxCell>
+        <mxCell id="702" value="&lt;div&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;5. Tactics, Techniques, Procedures&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;b&gt;How &lt;/b&gt;are the actor(s) of this Incident trying to manipulate the information environment with the intention to deceive their target audience(s)?&amp;nbsp;&lt;i style=&quot;background-color: initial;&quot;&gt;Consider:&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;The extent to which deception, manipulation or other illegitimate communication&amp;nbsp;techniques appear to&amp;nbsp; be applied in the Incident under analysis.&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The t&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;actics used, which describe operational goals that threat actors are trying to accomplish.&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Analyzing an actor’s intent&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;and evidence of manipulation or coordination, which are indicators of problematic behavior that could help&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;shape potential countermeasures.&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Discovering &lt;b&gt;Tactics&lt;/b&gt;, which describe operational goals threat actors are trying to accomplish.&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Discovering &lt;b&gt;Techniques&lt;/b&gt;, which describe how actors try to accomplish their operational goals.&lt;/font&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Analyze possible &lt;b&gt;Procedures, &lt;/b&gt;namely&amp;nbsp;specific combination of techniques across multiple tactics (or stages of an attack) that indicate intent and may be unique for different threat actors.&lt;/font&gt;&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+          <mxGeometry x="-1810" y="222" width="560" height="748" as="geometry" />
+        </mxCell>
+        <mxCell id="703" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;6. Objectives&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Explain &lt;b&gt;why&lt;/b&gt;&amp;nbsp;are the attack(s) captured in this incident launched?&amp;nbsp;&lt;/div&gt;&lt;div&gt;What are the presumed objectives of this Incident based on evidence and analysis collected&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;from blocks 1-5 ?&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;How are these objectives linked to narratives?&lt;/span&gt;&lt;/div&gt;&lt;div&gt;What are the manipulation objectives of this Observable?&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Does the Observable seek to achieve one of the following objectives?&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Dismiss&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Distort&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Dismay&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Distract&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Divide&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Does the Observable pursues one or more of the following degrees of Manipulation, as identified in block 5?&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Discredit opponents&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Using Emotional Language to attract attention and/or support&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Instigating inter-group polarization&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Creating Moral Outrage to gather support and/or polarize&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Building audience &amp;amp; follower base for fake accounts/impersonation&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Spreading conspiracy theories&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Evoke Outrage through Trolling&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+          <mxGeometry x="-1249.5" y="221" width="439.5" height="619" as="geometry" />
+        </mxCell>
+        <mxCell id="706" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;4. Narrative&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;What is the key Narrative&lt;/b&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&amp;nbsp;promoted and/or amplified through this Incident, b&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;ased on its Description, the apparent Target of the attack, and the identified Context?&lt;/span&gt;&lt;/div&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;What known narratives, stereotypes against social, ethnic, racial, gender groups, or conspiracy theories, explicit or hidden political objectives and agendas?&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;&lt;i&gt;Perform Contextualization and Narrative Analysis:&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;background-color: initial;&quot;&gt;Apply Narrative Theory to extract from the Incident&#39;s description and target its core narrative elements.&lt;/font&gt;&amp;nbsp;&lt;/i&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Identify and classify the Incident&#39;s narrative into a broader frame of political, social, financial or cultural theme.&amp;nbsp;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Explore if identified narrative(s) align with known disinformation narratives?&lt;/i&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+          <mxGeometry x="-1814" y="970" width="564" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="707" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;11. Impact / &lt;u style=&quot;&quot;&gt;Effect&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;What is the overall impact of the Observable and whom does it affect? This question&amp;nbsp;&lt;/div&gt;&lt;div&gt;can help establish the actual harms and severity of the case.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;The effect of an&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Observable (or the impact or severity) can be measured and assessed according to&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;different parameters such as the reach, the reach outside of in-groups, engagement,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;harm or behaviour-change caused offline, longevity etc.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="760" width="350" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="708" value="Disinfo Incident Analysis Canvas." style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=60;fontColor=#2F5B7C;" parent="1" vertex="1">
+          <mxGeometry x="-2210" y="110" width="910" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="712" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Organic Engagement&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Do the recipients of the Observable appear to engage with it,&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;commenting or sharing it within its publication platform or beyond,&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;in&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;other channels?&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontColor=#2F5B7C;" parent="1" vertex="1">
+          <mxGeometry x="-430" y="1070" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="713" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Reach&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Immediate audience&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Reach outside in-groups&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontColor=#2F5B7C;" parent="1" vertex="1">
+          <mxGeometry x="-440" y="1150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="714" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Longevity&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;Does the Observable attract an interest from audiences&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;that is persistent with time? For how long?&lt;/div&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=10;fontColor=#2F5B7C;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="1130" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="718" value="" style="dashed=0;html=1;shape=mxgraph.aws3.checklist_cost;fillColor=#2F5B7C;gradientColor=none;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fontSize=10;fontColor=#2F5B7C;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-175" y="780" width="67.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="clvNrAkNPHboKzo4sber-737" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#2F5B7C;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon1;fontColor=#004C99;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="246.13" width="60" height="50.75" as="geometry" />
+        </mxCell>
+        <mxCell id="clvNrAkNPHboKzo4sber-739" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2025" y="1240" as="sourcePoint" />
+            <mxPoint x="-2025" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="clvNrAkNPHboKzo4sber-750" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;3. Context / Theme&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;What&lt;/b&gt; is the &lt;b&gt;broader socio-political, economic context&lt;/b&gt; that could provide a plausible framing for the main points and/or targets of this Incident?&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;b&gt;What themes,&lt;/b&gt; stated or implied political and other agendas have the same target with the Incident and provide a reasonable frame for it?&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+          <mxGeometry x="-2209" y="1210" width="1179" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="clvNrAkNPHboKzo4sber-757" value="Marios Dikaiakos, University of Cyprus" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="1480" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8tYTXQU8wjhmK2s0PDr-720" value="" style="strokeColor=#999999;verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.copyrightIcon;" parent="1" vertex="1">
+          <mxGeometry x="-345" y="1480" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pVPiZ-HtbXnwxw0ccNwT-718" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#2f5b7c&quot;&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Incident Id:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=#B8B8B8;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;labelBorderColor=none;spacingTop=7;spacing=11;perimeterSpacing=7;" parent="1" vertex="1">
+          <mxGeometry x="-1200" y="160" width="720" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSTaS-76TJGAvLM2BYjj-718" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#2F5B7C;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.library;gradientColor=#D4E1F5;" parent="1" vertex="1">
+          <mxGeometry x="-1889" y="250" width="59" height="44.36" as="geometry" />
+        </mxCell>
+        <mxCell id="gkMJH9zX8IEWUTjaaAih-718" value="&lt;font&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;2. Target&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;What&lt;/b&gt; &lt;b&gt;is the target&lt;/b&gt; of the attack behind this Incident?&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;i&gt;Consider:&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Individual Person&lt;/i&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Cultural / Religious / Ethnic /Professional Group&lt;/i&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Institution&lt;/i&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Organization&lt;/i&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Country&lt;/i&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;International Alliance&lt;/i&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+          <mxGeometry x="-2210" y="970" width="400" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gkMJH9zX8IEWUTjaaAih-719" value="&lt;div style=&quot;text-align: justify;&quot;&gt;European Union&#39;s External Action Service defines a FIMI &lt;b&gt;incident&lt;/b&gt; as &quot;an action perpetrated by one or more threat actor(s) pursuing specific objectives and carried&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;out with the intent to deceive. It is composed of a combination of observables and TTPs. Multiple related incidents&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;can be part of a campaign.&quot;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-2210" y="1530" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gkMJH9zX8IEWUTjaaAih-720" value="&lt;b&gt;Glossary&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" parent="1" vertex="1">
+          <mxGeometry x="-2210" y="1500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KTAiGwlYfs7WKNJQzbvt-720" value="&lt;p style=&quot;line-height: 120%; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#2f5b7c&quot;&gt;&lt;b&gt;Associated events:&lt;/b&gt;&amp;nbsp;&lt;b&gt;what real-world events&lt;/b&gt; this Incident refers to or associate with&lt;span style=&quot;background-color: initial;&quot;&gt;?&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; font-size: 12px;&quot;&gt;&lt;i style=&quot;background-color: initial; color: rgb(47, 91, 124); font-size: 11px;&quot;&gt;Consider:&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 120%; font-size: 11px;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;line-height: 120%;&quot;&gt;&lt;li&gt;&lt;font color=&quot;#2f5b7c&quot;&gt;&lt;i&gt;Electoral events&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#2f5b7c&quot;&gt;&lt;i&gt;Military or security incidents&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#2f5b7c&quot;&gt;&lt;i&gt;Diplomatic negotiations&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#2f5b7c&quot;&gt;&lt;i&gt;Communication by public figures&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#2f5b7c&quot;&gt;&lt;i&gt;Political summits&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#2f5b7c&quot;&gt;&lt;i&gt;Public policy outputs&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#2f5b7c&quot;&gt;&lt;i&gt;Observances&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=0;fillColor=#f5f5f5;fontSize=11;fontColor=#333333;align=left;verticalAlign=middle;spacing=0;spacingTop=0;spacingLeft=11;" parent="1" vertex="1">
+          <mxGeometry x="-2197.5" y="560" width="365" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="3YunXSrgSm8D3ggenOJx-721" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#2F5B7C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.comprehend;" parent="1" vertex="1">
+          <mxGeometry x="-1325" y="991" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="cAoARAnAle2QqVufT_rQ-718" value="&lt;span style=&quot;background-color: initial; color: rgb(47, 91, 124);&quot;&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;TITLE&lt;/b&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt; &lt;/font&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;:&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#2f5b7c&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;align=left;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;spacingTop=7;spacing=11;perimeterSpacing=7;shadow=0;fillColor=none;strokeColor=#B8B8B8;" parent="1" vertex="1">
+          <mxGeometry x="-1200" y="110" width="720" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cAoARAnAle2QqVufT_rQ-720" value="&lt;font&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;7. Attribution / &lt;u&gt;Actor&lt;/u&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;/font&gt;&lt;font&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;Identify &lt;b&gt;who&lt;/b&gt;&amp;nbsp;could be behind this incident? &lt;br&gt;Actual individuals, groups, or organizations&amp;nbsp;as well as classes of individuals, organizations, systems or groups (e.g., the finance sector) who appear to have a motive to orchestrate this Incident and/or contribute to its content and narrative.&amp;nbsp;&lt;br&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;The purpose of this component is to help assess the actor(s) involved in the&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;case, and try to identify which kinds of actors produce and engage with the suspected disinformation.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;Sometimes actors disguise their origins and purposes, or disseminate suspicious content without malicious intent.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&lt;u&gt;Guidelines:&lt;/u&gt; Collect and analyze all available information to make an assessment, &lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;including secondary information, such as an attribution made by a digital platform or&amp;nbsp;in&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;&amp;nbsp;a journalistic investigation, and clarify if actor(s) are:&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 10px;&quot;&gt;Individual(s): persons involved acting in their private capacity&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Nonstate actor(s): persons affiliated with private or NG organization&lt;/li&gt;&lt;li&gt;Media platform: is the platform of distribution independent?&lt;/li&gt;&lt;li&gt;Political actor(s): does the individual act on behalf of a recognized political entity?&lt;/li&gt;&lt;li&gt;Foreign state(s): is the actor an agent or proxy of a foreign government?&lt;/li&gt;&lt;li&gt;Trolls, impersonators, fake personas etc.&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+          <mxGeometry x="-1249.5" y="840" width="439.5" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="cAoARAnAle2QqVufT_rQ-721" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=next_generation_intrusion_prevention_system;fillColor=#FAFAFA;strokeColor=#005073;" parent="1" vertex="1">
+          <mxGeometry x="-872" y="870" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cAoARAnAle2QqVufT_rQ-723" value="&lt;p style=&quot;line-height: 0%; font-size: 11px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#2f5b7c&quot;&gt;List of Observable(s)&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 11px;&quot;&gt;&lt;font color=&quot;#2f5b7c&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 11px;&quot;&gt;&lt;font color=&quot;#2f5b7c&quot;&gt;&lt;i&gt;Provide a list of:&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#2f5b7c&quot;&gt;&lt;i&gt;ObservableID, Description, Format&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=0;fillColor=#f5f5f5;fontSize=11;fontColor=#333333;align=left;verticalAlign=top;spacing=0;spacingTop=0;spacingLeft=11;" parent="1" vertex="1">
+          <mxGeometry x="-2197.5" y="820" width="365" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="cAoARAnAle2QqVufT_rQ-724" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#2f5b7c&quot;&gt;&lt;b&gt;What&lt;/b&gt;&amp;nbsp;is this Incident &lt;b&gt;about&lt;/b&gt;?&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#2f5b7c&quot;&gt;&lt;b&gt;What&lt;/b&gt;&amp;nbsp;is the &lt;b&gt;story&lt;/b&gt; conveyed by the Incident&#39;s Observable(s)?&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#2f5b7c&quot;&gt;&lt;b&gt;What&lt;/b&gt;&amp;nbsp;are the apparent &lt;b&gt;targets&lt;/b&gt; of the disinformation attack?&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=0;fontSize=11;align=left;verticalAlign=top;spacing=0;spacingTop=0;spacingLeft=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="-2197" y="303" width="365" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="cAoARAnAle2QqVufT_rQ-725" value="&lt;p style=&quot;line-height: 0%; font-size: 12px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; color=&quot;#2f5b7c&quot;&gt;&lt;b&gt;Timeline &lt;/b&gt;of Incident:&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;line-height: 0%; font-size: 11px;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#2f5b7c&quot;&gt;&lt;b&gt;What is the timeframe&lt;/b&gt; that this incident occurred?&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=0;fillColor=#f5f5f5;fontSize=11;fontColor=#333333;align=left;verticalAlign=top;spacing=0;spacingTop=0;spacingLeft=11;" parent="1" vertex="1">
+          <mxGeometry x="-2197.5" y="727" width="365" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cAoARAnAle2QqVufT_rQ-727" value="" style="fillColor=#2F5B7C;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.host_context;" parent="1" vertex="1">
+          <mxGeometry x="-1100" y="1240" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="cAoARAnAle2QqVufT_rQ-730" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Targets_Management.svg;" parent="1" vertex="1">
+          <mxGeometry x="-1889" y="995.5" width="59" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="PCgax0G6skfG9ThHFStt-723" value="&lt;div style=&quot;font-size: 26px&quot;&gt;10. Vulnerabilities&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;How do the objectives, the narrative and the TTPs of the attack behind this incident resonate with vulnerabilities&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;The degree dimension attempts to gauge and describe the way the Observable has travelled through the information environment, possibly crossing different channels (shared via Social Media, story picked-up by other news media, etc), targeting different linguistic, ethnic, social or age groups. This view on disinformation operations can reveal threat actor preferences with regards to targeted platforms and identify different roles of channels in a network as source, amplifier or link to other networks.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;Examples&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Societal/ethnic/political/national groups&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;Massive&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;Micro-targetting&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+          <mxGeometry x="-450" y="220" width="350" height="539" as="geometry" />
+        </mxCell>
+        <mxCell id="PCgax0G6skfG9ThHFStt-725" value="&lt;div style=&quot;font-size: 26px&quot;&gt;8. Channels&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;Where&lt;/b&gt; has this Incident been manifested?&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Which channels&amp;nbsp; were targeted and reached?&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;How different platforms have been weaponized to support the attack behind the incident?&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+          <mxGeometry x="-810" y="840" width="360" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="PCgax0G6skfG9ThHFStt-727" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1340" y="250" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="cAoARAnAle2QqVufT_rQ-728" value="" style="fillColor=#2F5B7C;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.analysis_correlation;" parent="PCgax0G6skfG9ThHFStt-727" vertex="1">
+          <mxGeometry width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="PCgax0G6skfG9ThHFStt-726" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#2F5B7C;" parent="PCgax0G6skfG9ThHFStt-727" vertex="1">
+          <mxGeometry x="24" y="20" width="16" height="15.68" as="geometry" />
+        </mxCell>
+        <mxCell id="PCgax0G6skfG9ThHFStt-728" value="" style="fillColor=#2F5B7C;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.vulnerability_management;" parent="1" vertex="1">
+          <mxGeometry x="-162.75" y="250" width="43" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="PCgax0G6skfG9ThHFStt-729" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#2F5B7C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_channel;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="862" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PCgax0G6skfG9ThHFStt-730" value="&lt;div style=&quot;font-size: 26px&quot;&gt;&lt;font style=&quot;font-size: 26px&quot;&gt;12. Countermeasures&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#e8edf0;strokeWidth=5;fillColor=#ffffff;fontSize=12;fontColor=#2F5B7C;align=left;verticalAlign=top;spacing=30;" parent="1" vertex="1">
+          <mxGeometry x="-1030" y="1210" width="930" height="263" as="geometry" />
+        </mxCell>
+        <mxCell id="PCgax0G6skfG9ThHFStt-731" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#2F5B7C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.shield2;" parent="1" vertex="1">
+          <mxGeometry x="-175" y="1220" width="58.5" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-718" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;According to the European External Action Service&#39;s definition,&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Foreign Information Manipulation and Interference&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(FIMI) describes &quot;a mostly non-illegal pattern of&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;behaviour that threatens or has the potential to&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;negatively impact values, procedures, and political&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;processes. Such activity is manipulative in character,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;conducted in an intentional and coordinated manner.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Actors of such activity can be state or non-state&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;actors, including their proxies inside and outside&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;of their own territory.&quot;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="1549" width="613" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-721" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#2f5b7c&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;DISARM: &lt;/b&gt;use the DISARM framework analysis and taxonomy to map the TTPs identified&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=0;fillColor=#F0F0F0;fontSize=11;fontColor=#333333;align=left;verticalAlign=top;spacing=0;spacingTop=0;spacingLeft=11;" vertex="1" parent="1">
+          <mxGeometry x="-1777.5" y="498" width="500" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-722" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#2f5b7c&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;DEPICT: &lt;/b&gt;select one or more degrees of manipulation identified in this Incident:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=0;fillColor=#F0F0F0;fontSize=11;fontColor=#333333;align=left;verticalAlign=top;spacing=0;spacingTop=0;spacingLeft=11;" vertex="1" parent="1">
+          <mxGeometry x="-1777" y="576.5" width="500" height="73.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-734" value="" style="group;fontColor=#2F5B7C;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1763" y="600" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-723" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-734">
+          <mxGeometry y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-729" value="&lt;font color=&quot;#2f5b7c&quot;&gt;Discrediting&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-734">
+          <mxGeometry x="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-735" value="" style="group;fontColor=#2F5B7C;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1663" y="600" width="67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-724" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-735">
+          <mxGeometry y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-732" value="&lt;font color=&quot;#2f5b7c&quot;&gt;Emotion&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-735">
+          <mxGeometry x="7" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-747" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#2f5b7c&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;CONSPIRE: &lt;/b&gt;use the CONSPIRE framework of analysis to identify conspiratorial techniques applied in the Incident at hand:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=0;fillColor=#F0F0F0;fontSize=11;fontColor=#333333;align=left;verticalAlign=top;spacing=0;spacingTop=0;spacingLeft=11;" vertex="1" parent="1">
+          <mxGeometry x="-1777" y="654" width="500" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-748" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1763" y="619" width="82" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-739" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-748">
+          <mxGeometry y="9" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-740" value="Impersonation" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-748">
+          <mxGeometry x="22" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-749" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1663" y="619" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-741" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-749">
+          <mxGeometry y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-742" value="Conspiracy" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-749">
+          <mxGeometry x="15" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-751" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1580" y="601" width="78" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-737" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-751">
+          <mxGeometry y="9" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-738" value="Polarization" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-751">
+          <mxGeometry x="18" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-743" value="" style="group;fontColor=#2F5B7C;" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-751">
+          <mxGeometry x="1" y="18" width="67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-750" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-743">
+          <mxGeometry width="67" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-744" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-750">
+          <mxGeometry y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-745" value="&lt;font color=&quot;#2f5b7c&quot;&gt;Trolling&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-750">
+          <mxGeometry x="7" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-752" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1767" y="690" width="171.14166666666668" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-753" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-752">
+          <mxGeometry x="1" y="8" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-754" value="Contradictory" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-752">
+          <mxGeometry x="20.549999999999997" width="68.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-755" value="" style="group;fontColor=#2F5B7C;" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-752">
+          <mxGeometry x="1.1416666666666666" y="13" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-756" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-755">
+          <mxGeometry width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-757" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-756">
+          <mxGeometry y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-758" value="&lt;font color=&quot;#2f5b7c&quot;&gt;&amp;nbsp;Overriding Suspicion&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-756">
+          <mxGeometry x="7.991666666666666" y="3" width="129.00833333333333" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-776" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-756">
+          <mxGeometry x="-0.011666666666542369" y="20" width="170.01166666666654" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-774" value="Re-interpreting randomness" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-776">
+          <mxGeometry x="15.871666666666542" width="154.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-775" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-776">
+          <mxGeometry y="8" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-759" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1596" y="689" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-760" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-759">
+          <mxGeometry y="9" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-761" value="Nefarious Intent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-759">
+          <mxGeometry x="10" width="92" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-762" value="" style="group;fontColor=#2F5B7C;" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-759">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-763" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-762">
+          <mxGeometry width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-764" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-763">
+          <mxGeometry y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-765" value="&lt;font color=&quot;#2f5b7c&quot;&gt;Something must be wrong&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-763">
+          <mxGeometry x="7" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-767" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1433.5" y="689" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-768" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-767">
+          <mxGeometry y="9" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-769" value="Persecuted Victim" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-767">
+          <mxGeometry x="10" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-770" value="" style="group;fontColor=#2F5B7C;" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-767">
+          <mxGeometry y="20" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-771" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-770">
+          <mxGeometry width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-772" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-771">
+          <mxGeometry y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-773" value="&lt;font color=&quot;#2f5b7c&quot;&gt;Immunity to Evidence&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-771">
+          <mxGeometry x="7" width="133" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-777" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#2f5b7c&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;KNOWN MISINFORMATION STRATEGIES: &lt;/b&gt;identify if known strategies apply in this Incident&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=0;fillColor=#F0F0F0;fontSize=11;fontColor=#333333;align=left;verticalAlign=top;spacing=0;spacingTop=0;spacingLeft=11;" vertex="1" parent="1">
+          <mxGeometry x="-1777" y="754.5" width="500" height="85.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-778" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1760" y="780" width="171.14166666666668" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-779" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-778">
+          <mxGeometry x="1" y="8" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-780" value="Moral Outrage" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-778">
+          <mxGeometry x="14.55" y="-1" width="79.45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-781" value="" style="group;fontColor=#2F5B7C;" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-778">
+          <mxGeometry x="1.1416666666666666" y="13" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-782" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-781">
+          <mxGeometry width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-783" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-782">
+          <mxGeometry y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-784" value="&lt;font color=&quot;#2f5b7c&quot;&gt;False Dichotomies&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-782">
+          <mxGeometry x="-0.008333333333333748" y="1" width="129.00833333333333" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-785" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-782">
+          <mxGeometry x="-0.011666666666542369" y="20" width="170.01166666666654" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-786" value="&amp;nbsp;Fear Mongering" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-785">
+          <mxGeometry x="-21.128333333333458" y="-2" width="154.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-787" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-785">
+          <mxGeometry y="7" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-788" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1630" y="780" width="171.14166666666668" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-789" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-788">
+          <mxGeometry x="1" y="8" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-790" value="Impersonation" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-788">
+          <mxGeometry x="14.55" y="-1" width="79.45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-791" value="" style="group;fontColor=#2F5B7C;" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-788">
+          <mxGeometry x="0.1416666666666666" y="13" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-792" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-791">
+          <mxGeometry width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-793" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-792">
+          <mxGeometry y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-794" value="&lt;font color=&quot;#2f5b7c&quot;&gt;Scapegoating&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-792">
+          <mxGeometry x="-12.008333333333333" y="1" width="129.00833333333333" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-795" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-792">
+          <mxGeometry x="-0.011666666666542369" y="20" width="170.01166666666654" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-796" value="Spreading Conspiracies" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-795">
+          <mxGeometry x="2.871666666666542" y="-2" width="154.14" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-797" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-795">
+          <mxGeometry y="7" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-799" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1480" y="780" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-800" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-799">
+          <mxGeometry y="9" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-801" value="Amplifying Stereotypes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-799">
+          <mxGeometry x="10" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-806" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#2f5b7c&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Kill-chain Analysis: &lt;/b&gt;explore if the incident can be mapped to one of the kill-chair analysis&#39; phases:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#666666;strokeWidth=0;fillColor=#F0F0F0;fontSize=11;fontColor=#333333;align=left;verticalAlign=top;spacing=0;spacingTop=0;spacingLeft=11;" vertex="1" parent="1">
+          <mxGeometry x="-1777" y="843.5" width="500" height="116.5" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-807" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1760" y="880" width="231.13000000000014" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-808" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-807">
+          <mxGeometry x="1" y="8" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-809" value="Step 1: Find the cracks" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-807">
+          <mxGeometry x="14.55" y="-1" width="125.45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-810" value="" style="group;fontColor=#2F5B7C;" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-807">
+          <mxGeometry x="1.1416666666666666" y="13" width="229.98833333333346" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-811" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-810">
+          <mxGeometry width="229.98833333333346" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-812" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-811">
+          <mxGeometry y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-813" value="&lt;font color=&quot;#2f5b7c&quot;&gt;Step 2: Seed distortion&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-811">
+          <mxGeometry x="10.991666666666667" y="1" width="129.00833333333333" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-814" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-811">
+          <mxGeometry x="-0.011666666666542369" y="20" width="230" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-815" value="Step 3: Wrap narratives in the kernel of truth" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-814">
+          <mxGeometry x="8" y="-2" width="251.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-816" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-814">
+          <mxGeometry y="7" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-830" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-814">
+          <mxGeometry y="15" width="152.44999999999976" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-819" value="Step 4: Build audiences" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-830">
+          <mxGeometry x="6.999999999999773" width="145.45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-818" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-830">
+          <mxGeometry y="9" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-820" value="" style="group;fontColor=#2F5B7C;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-1488.9983333333334" y="910" width="229.98833333333346" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-821" value="" style="group" vertex="1" connectable="0" parent="jYpSAVN3HcRYQqAH1gX4-820">
+          <mxGeometry width="229.98833333333346" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-822" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-821">
+          <mxGeometry x="-11" y="-6" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-825" value="Step 6: Cultivate Useful idiots" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-821">
+          <mxGeometry x="-16.071666666666488" y="-15" width="200.13" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-851" value="Step 7: Deny involvement" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="jYpSAVN3HcRYQqAH1gX4-821">
+          <mxGeometry x="2.9983333333334485" y="2" width="145.45" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-826" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="887" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-823" value="&lt;font color=&quot;#2f5b7c&quot;&gt;Step 5: Conceal your hand&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1485.8583333333333" y="878" width="149.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-841" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="921" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-857" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-1500" y="937" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-858" value="Step 8: Play the long game" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#2F5B7C;" vertex="1" parent="1">
+          <mxGeometry x="-1486" y="928" width="156" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jYpSAVN3HcRYQqAH1gX4-859" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.checklist;fillColor=#2F5B7C;gradientColor=#4A90C4;" vertex="1" parent="1">
+          <mxGeometry x="-869.37" y="251.36" width="44.75" height="49.39" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
